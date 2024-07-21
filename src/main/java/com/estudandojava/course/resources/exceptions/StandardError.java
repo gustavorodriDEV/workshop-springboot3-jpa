@@ -1,4 +1,4 @@
-package com.estudandojava.course.resources.exceotions;
+package com.estudandojava.course.resources.exceptions;
 
 import java.io.Serializable;
 import java.time.Instant;
